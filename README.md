@@ -4,26 +4,7 @@ This repository contains a complete bioinformatics workflow analyzing the GEO da
 
 ---
 
-## 📁 Repository Structure
-mdd-gene-expression-gse98793/
-|
-|--data/
-|   |-- raw/                 # GEO files downloaded via GEOparse
-|  └── processed/           # Filtered & cleaned expression matrices and metadata
-|
-|-- notebooks/
-   |_ 01_download_preprocess_GSE98793.ipynb
-      # Preprocessing + PCA + EDA (heatmaps, UMAP)
 
-|-- results/
-   |_figures/             # PCA, heatmap, UMAP, correlation plots
-|-- src/                     # Placeholder for modular python scripts
-
-|-- ai_usage.md              # Documentation of how AI tools were used
-|-- README.md                # Project documentation (this file)
-|-- requirements.txt         # Python dependencies
-|-- LICENSE
----
 
 ## 📊 Dataset Information
 
