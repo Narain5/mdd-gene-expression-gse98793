@@ -6,7 +6,7 @@ This repository contains a complete bioinformatics workflow analyzing the GEO da
 
 
 
-## 📊 Dataset Information
+## Dataset Information
 
 **Source:** NCBI Gene Expression Omnibus  
 **Accession:** [GSE98793](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98793)  
@@ -57,7 +57,7 @@ These will support the draft and final reports.
 
 ---
 
-## 🚧 Future Work (Week 2–3)
+##  Future Work (Week 2–3)
 
 - Differential gene expression  
 - Volcano plot  
@@ -68,12 +68,12 @@ These will support the draft and final reports.
 
 ---
 
-## 🤖 AI Usage
+##  AI Usage
 
 See **ai_usage.md** for a complete explanation of how AI tools assisted in the project.
 
 ---
 
-## 📜 License
+##  License
 
 This project is released under the MIT License (for academic use).
